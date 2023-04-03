@@ -1,0 +1,27 @@
+img {
+  display: flex;
+  max-width: 100%;
+}
+h1 {
+  text-align: center;
+  margin: 10px;
+  line-height: 1.5;
+}
+.description {
+  text-align: center;
+  margin: 10px;
+  line-height: 1.5;
+  border: 2px solid orange;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  max-width: 100%;
+}
+.contact {
+  text-align: center;
+  display: flex;
+  color: orange;
+}
+.contact:hover {
+  color: blueviolet;
+}
